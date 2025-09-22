@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Telefe.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/512px-Telefe_%28nuevo_logo%29.png" group-title="Undefined",Telefe
-https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://i.imgur.com/TrgBAdA.png" group-title="General",El Trece (1080p)
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
@@ -28,9 +26,6 @@ https://www.youtube.com/channel/UCYozHHDnLnQs2yc2k3t8cPA
 
 #EXTINF:-1 tvg-id="ElSiete" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Elsiete.webp/250px-Elsiete.webp.png" group-title="General",El Siete Mendoza
 https://www.youtube.com/channel/UC64ZNqX0FQHabP8iIkmnR3A
-
-#EXTINF:-1 tvg-id="TvPublica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/250px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png" group-title="General",Televisión Pública
-https://www.youtube.com/channel/UCs231K71Bnu5295_x0MB5Pg
 
 #EXTINF:-1 tvg-id="ArgentinisimaSatelital.ar" tvg-logo="https://i.imgur.com/xFgJawa.png" group-title="General",Argentinísima Satelital
 
